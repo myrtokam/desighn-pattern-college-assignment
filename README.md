@@ -1,1 +1,1 @@
-# desighn-pattern-college-assignment
+# desighn-patterns
